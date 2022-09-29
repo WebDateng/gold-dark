@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Readex+Pro&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  font-family: "Readex Pro", sans-serif;
+}
+
+.Banner {
+  @apply bg-fixed h-screen bg-cover bg-no-repeat bg-center bg-navy/80 bg-blend-multiply;
+  background-image: url(../images/hero.jpg);
+}
+
+.Profile {
+  @apply bg-navy;
+  background-image: url(../images/pattern.png);
+  background-size: 20rem;
+}
+
+.Location {
+  @apply bg-navy;
+  background-image: url(../images/pattern.png);
+  background-size: 20rem;
+}
+
+.Event {
+  @apply bg-fixed bg-cover bg-center bg-no-repeat bg-navy/95 bg-blend-multiply;
+  background-image: url(../images/event-bg.jpeg);
+}
+
+.Card {
+  @apply bg-navy w-fit px-10 py-8 mx-auto rounded-lg shadow-lg;
+}
+
+.Time-card {
+  @apply bg-navy w-36 h-36 rounded-lg shadow-md flex flex-col justify-center;
+}
+
+.Gallery {
+  @apply bg-stone-200 px-3 py-16;
+}
+
+.Absensi {
+  @apply bg-navy px-3 py-16;
+  background-image: url(../images/pattern.png);
+  background-size: 20rem;
+}
+
+.Form {
+  @apply bg-stone-300 rounded-lg px-4 py-8 shadow-lg;
+}
+
+.Chat-box {
+  @apply p-4 border-b border-navy/20;
+}
+
+.Footer {
+  @apply bg-stone-400 py-6 px-3;
+}
