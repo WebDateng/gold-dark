@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gold-dark/static/css/main.8da767a6.css",
+    "main.js": "/gold-dark/static/js/main.203387d6.js",
+    "static/media/hero.jpg": "/gold-dark/static/media/hero.1c96eaf392178fb0dfc4.jpg",
+    "static/media/event-bg.jpeg": "/gold-dark/static/media/event-bg.86105301ecd678dfd873.jpeg",
+    "static/media/1.jpg": "/gold-dark/static/media/1.a201b4e8e275513707e0.jpg",
+    "static/media/2.jpg": "/gold-dark/static/media/2.9b6168c5ab02fd8022d4.jpg",
+    "static/media/4.jpg": "/gold-dark/static/media/4.80df1ba3cbedab1f740e.jpg",
+    "static/media/pattern.png": "/gold-dark/static/media/pattern.fd9120dbc7d9aea820f9.png",
+    "static/media/Female.jpg": "/gold-dark/static/media/Female.9ad69d4002051d360e8d.jpg",
+    "static/media/Male.jpg": "/gold-dark/static/media/Male.baeec45d1c33d70afab1.jpg",
+    "static/media/santih.png": "/gold-dark/static/media/santih.73d35944cf5c77c685bf.png",
+    "static/media/3.jpg": "/gold-dark/static/media/3.706b318565e675ddbcd9.jpg",
+    "static/media/swastyastu.png": "/gold-dark/static/media/swastyastu.961e8aeb111bee40573d.png",
+    "static/media/prokes.jpg": "/gold-dark/static/media/prokes.236c62b1c92ea5d51f81.jpg",
+    "index.html": "/gold-dark/index.html",
+    "main.8da767a6.css.map": "/gold-dark/static/css/main.8da767a6.css.map",
+    "main.203387d6.js.map": "/gold-dark/static/js/main.203387d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8da767a6.css",
+    "static/js/main.203387d6.js"
+  ]
+}
